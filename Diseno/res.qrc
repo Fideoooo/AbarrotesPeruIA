@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="images">
+    <file>icono lupa.png</file>
+    <file>background.png</file>
+    <file>Grupo_smar_logo.png</file>
+  </qresource>
+</RCC>
